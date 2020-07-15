@@ -1,1 +1,1 @@
-error /Commit message:/
+ok /Commit message:/
